@@ -1,0 +1,46 @@
+body{
+  background-image: url(https://www.maxpixel.net/static/photo/1x/Pirate-Vessel-Boat-Ship-Salt-Mar-Skeleton-Beach-2821401.jpg);
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+td{
+  border: 2px dashed black;
+  font-size: 50px;
+  height: 100px;
+  width: 100px;
+  text-align: center;
+}
+table{
+  margin: 0 auto;
+  border: 2px solid black;
+
+}
+h1{
+  text-align: center;
+  font-size: 100px;
+  color: white;
+}
+h2{
+  text-align: center;
+  font-size: 75px;
+  color: white;
+}
+#instructions{
+list-style-position: inside;
+display: inline-block;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  text-align: left;
+  font-size: 40px;
+  color: white;
+
+}
+#pirate{
+  margin: 0 auto;
+  text-align: center;
+}
+
+td:hover{
+  cursor: url(https://ani.cursors-4u.net/games/gam-16/gam1556.cur), auto !important;
+}
